@@ -1,5 +1,7 @@
 # Quiz Application with Vue
 
+Building a simple application to teach myself Vue.
+
 ## Project setup
 ```
 npm install
