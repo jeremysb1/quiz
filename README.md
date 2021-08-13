@@ -1,4 +1,4 @@
-# Quiz Application with Vue
+# Fitst Vue App
 
 Building a simple application to teach myself Vue.
 
