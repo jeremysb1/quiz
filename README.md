@@ -1,4 +1,4 @@
-# Fitst Vue App
+# First Vue App
 
 Building a simple application to teach myself Vue.
 
